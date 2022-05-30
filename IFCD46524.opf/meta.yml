@@ -1,0 +1,157 @@
+id: IFCD46524
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:09:07.757569'
+last_modified: '2022-05-31T05:09:07.757575'
+parser: null
+source_metadata:
+  title: Longchen Rabjam Series
+  language: es
+  description: 'Texts by and about Longchen Rabjam (klong chen rab ''byams, 1308-1364),
+    also known as Drimé Özer (dri med ''od zer), who is widely acknowledged as the
+    greatest exponent of Dzogpachenpo, or the Great Perfection, in Tibetan history:'
+  volume:
+    f697D:
+      title: 'A Mirror Revealing the Crucial Points: Advice on the Ultimate Meaning'
+      base_file: f697D.txt
+      order: 1
+      parent: Advice
+    fBE65:
+      title: 'A Wish-Fulfilling Gem: Guidance on the Meaning of Being at Ease with
+        Illusion, A Dzogchen Teaching'
+      base_file: fBE65.txt
+      order: 2
+      parent: Advice
+    f66D2:
+      title: 'Crucial Advice: A Complete Set of Instructions for the Bardos'
+      base_file: f66D2.txt
+      order: 3
+      parent: Advice
+    fCB5A:
+      title: Thirty Pieces of Heart Advice
+      base_file: fCB5A.txt
+      order: 4
+      parent: Advice
+    fA24A:
+      title: 'Gyang Lu: A Song of Calling from Afar'
+      base_file: fA24A.txt
+      order: 5
+      parent: Calling the Guru from Afar
+    f35D0:
+      title: Prayer and Call from Afar to the Great Omniscient One
+      base_file: f35D0.txt
+      order: 6
+      parent: Calling the Guru from Afar
+    f9AB4:
+      title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+      base_file: f9AB4.txt
+      order: 7
+      parent: Guru Rinpoche Prayers
+    f8F7F:
+      title: Guru Yoga of the Great Omniscient One, Longchenpa
+      base_file: f8F7F.txt
+      order: 8
+      parent: Guru Yoga
+    fAA4A:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      base_file: fAA4A.txt
+      order: 9
+      parent: Guru Yoga
+    fE248:
+      title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+      base_file: fE248.txt
+      order: 10
+      parent: Lineage Prayers
+    fEEE3:
+      title: Prayer to the Omniscient Longchen Rabjam
+      base_file: fEEE3.txt
+      order: 11
+      parent: Lineage Prayers
+    fDE80:
+      title: 'From ''Finding Comfort and Ease in Meditation'': A Guide to Locations
+        for Cultivating Samadhi'
+      base_file: fDE80.txt
+      order: 12
+      parent: Meditation
+    f2204:
+      title: 'From ''Finding Comfort and Ease in Meditation'': The Practitioner of
+        Meditation'
+      base_file: f2204.txt
+      order: 13
+      parent: Meditation
+    f34BB:
+      title: 'Disheartened by Circumstances: An Acrostic Poem'
+      base_file: f34BB.txt
+      order: 14
+      parent: Poems
+    fBBF4:
+      title: In Praise of Longchenpa – The Greatness of the Omniscient Longchen Rabjam
+      base_file: fBBF4.txt
+      order: 15
+      parent: Praise
+    fED7B:
+      title: Praise of Longchen Rabjam
+      base_file: fED7B.txt
+      order: 16
+      parent: Praise
+    fB151:
+      title: 'The Melody of Youthful Joy: In Praise of Sarasvatī'
+      base_file: fB151.txt
+      order: 17
+      parent: Praise
+    f482E:
+      title: 'Vast Clouds of Blessings: In Praise of the Omniscient Lord of Dharma'
+      base_file: f482E.txt
+      order: 18
+      parent: Praise
+    f2827:
+      title: Dedication (Sangye tenpa...)
+      base_file: f2827.txt
+      order: 19
+      parent: Prayers
+    f0993:
+      title: Food Offering Prayer
+      base_file: f0993.txt
+      order: 20
+      parent: Prayers
+    fDC4D:
+      title: 'The Pure Three Kāyas Ablaze in Perfect Splendour: A Prayer Based on
+        the Meaning of the Great Perfection'
+      base_file: fDC4D.txt
+      order: 21
+      parent: Prayers
+    f188F:
+      title: Song of the Enchanting Wildwoods
+      base_file: f188F.txt
+      order: 22
+      parent: Songs
+    fE5D5:
+      title: 'The Cloud Messenger: A Song of Prayer to the Omniscient Guru'
+      base_file: fE5D5.txt
+      order: 23
+      parent: Songs
+    f5118:
+      title: The Song of the Vajra
+      base_file: f5118.txt
+      order: 24
+      parent: Songs
+    f89F8:
+      title: 'The Sweet Call of the Kalaviṅka: A Song Evoking the Omniscient King
+        of Dharma'
+      base_file: f89F8.txt
+      order: 25
+      parent: Songs
+    fB7F5:
+      title: 'Waves of Devotion: A Song Recalling the Omniscient King of Dharma'
+      base_file: fB7F5.txt
+      order: 26
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
